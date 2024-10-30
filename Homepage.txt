@@ -1,3 +1,8 @@
 list the products
 profile 
 add to cart
+wishlist
+Product Caegories
+Sort
+filter
+other options
